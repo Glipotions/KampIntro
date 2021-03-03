@@ -17,6 +17,7 @@ namespace DegerVeReferansTipler
 			sayilar1 = sayilar2;
 			sayilar2[0] = 999;
 			//sayilar1[0]=?  999 olur
+
 		}
 	}
 }
